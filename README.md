@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Doyoon Jeon. I'm a undergraduate student of KAIST, majoring in both mathematics and computer science.
+- 👋 Hi, I’m Doyoon Jeon. I'm a graduate student of SNU GSDS (Graduate School of Data Science).
 - 👀 I’m interested in AI and machine learning.
 - 🌱 I’m currently studying about deep learning.
 - 💞️ I’m looking to collaborate on other people.
